@@ -17,7 +17,7 @@ int main() {
 
   average = (mark1 + mark2) / 2.0;
 
-  printf("Avarage marks are %.2f\n", average);
+  printf("Avarage marks are %.2f", average);
 
   return 0;
 }
